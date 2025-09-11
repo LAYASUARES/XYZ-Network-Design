@@ -22,7 +22,7 @@ Implement the design using the ISP-provided base network 192.168.1.0/24.
 <img width="830" height="591" alt="Topology" src="https://github.com/user-attachments/assets/8cc30a92-af90-4ced-83f1-8fb3e64e2fd3" />
 
 ##IP PLAN
-| Departamento          | VLAN | Sub-rede       | Gateway       |
+| Departament           | VLAN | Subnet       | Gateway       |
 |-----------------------|------|----------------|---------------|
 | Admin/IT              | 10   | 192.168.1.0/26 | 192.168.1.1   |
 | Finance/HR            | 20   | 192.168.1.64/26| 192.168.1.65  |
