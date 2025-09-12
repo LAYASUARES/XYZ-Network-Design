@@ -17,7 +17,7 @@ Implement the design using the ISP-provided base network 192.168.1.0/24.
 ✅ DHCP configured for automatic IPv4 addressing
 ✅ Full inter-department communication via inter-VLAN routing
 
-##Topologia 
+##Topology 
 
 <img width="830" height="591" alt="Topology" src="https://github.com/user-attachments/assets/8cc30a92-af90-4ced-83f1-8fb3e64e2fd3" />
 
